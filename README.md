@@ -16,3 +16,27 @@ HTTP也属于该层
 
 链路层
 连接网络的硬件部分，包括操作系统，设备驱动，NIC（NETWORK Interface Card,网卡）
+
+
+2017-12-21
+IP协议 TCP协议 和DNS
+IP协议
+位于网络层，把数据包传送到对方
+
+TCP协议
+字节流服务，将数据分割成报文段segment
+三次握手确保是否成功送达
+DNS域名
+DNS服务
+
+URI 和URL
+统一的格式处理不同类型的资源
+http：/ftp:
+
+URI用字符串表示某一互联网资源，而URL表示资源的地点
+
+绝对URI，URL 相对URL
+浏览器中基本URI指定的URL如/image/logo.gif
+
+绝对url格式
+
